@@ -1,1 +1,10 @@
 // Entry point for your Sass build
+.div-with-background {
+  padding: 1rem;
+  width: 20rem;
+  height: 20rem;
+  background-color: red;
+
+
+  background-image: url('images/background.jpg')
+}
